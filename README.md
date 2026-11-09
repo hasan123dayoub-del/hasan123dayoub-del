@@ -1,6 +1,6 @@
 ### Hi, I'm Hasan 👋
 
-**Backend-focused Full-Stack Developer** · Laravel · Node.js · TypeScript · React · Next.js
+Backend-focused Full-Stack Developer | Laravel · Node.js · TypeScript · React · Next.js
 
 I build clean, well-tested REST APIs with Laravel and Node.js, and React interfaces on top of them. I care about the parts users never see: data integrity under concurrency, query performance, and tests that catch real bugs.
 
