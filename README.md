@@ -14,6 +14,7 @@ Every project below is deployed with demo accounts, and the APIs have interactiv
 
 | Project | What it shows | Try it |
 |---|---|---|
+| [**Movies Platform**](https://github.com/hasan123dayoub-del/movies-platform) | Full-stack TypeScript: a 32-endpoint Express + Prisma API on PostgreSQL, a Next.js 16 site with live search and an admin area, 33 API tests, Docker on Render | [Live](https://movies-platform-web.onrender.com) |
 | [**HireHub**](https://github.com/hasan123dayoub-del/HireHub) | Freelance marketplace API (Laravel 12). Repository and Service layers, events, Sanctum; eager loading cut the listing from 48 to 5 queries per page | [Live](https://hirehub-api-dy61.onrender.com) · [API docs](https://hirehub-api-dy61.onrender.com/docs/api) |
 | [**LazyRoom**](https://github.com/hasan123dayoub-del/LazyRoom) | Backend of a multi-vendor ordering app. Wallet payments with row locking: 20 parallel requests on one order charge it exactly once | [Live](https://lazyroom-api.onrender.com) · [API docs](https://lazyroom-api.onrender.com/docs/api) |
 | [**NewsRoom**](https://github.com/hasan123dayoub-del/NewsRoom) | Headless CMS API with versioned endpoints (v1/v2), contextual binding and atomic locks against cache stampedes | [Live](https://newsroom-api-rmwa.onrender.com) · [API docs](https://newsroom-api-rmwa.onrender.com/docs/api) |
@@ -27,7 +28,7 @@ Every project below is deployed with demo accounts, and the APIs have interactiv
 
 #### 🛠 Tech I work with
 
-**Backend:** PHP 8, Laravel, Node.js, Express · **Data:** MySQL, MongoDB, Redis · **Auth:** Sanctum, JWT, RBAC, Policies · **Frontend:** React, Tailwind CSS, Blade · **Quality:** Pest, PHPUnit, GitHub Actions (CI)
+**Backend:** PHP 8, Laravel, Node.js, TypeScript, Express · **Data:** MySQL, PostgreSQL, MongoDB, Redis, Prisma · **Auth:** Sanctum, JWT, RBAC, Policies · **Frontend:** React, Next.js, Tailwind CSS, Blade · **Quality & DevOps:** Pest, PHPUnit, Vitest, Docker, GitHub Actions (CI)
 
 #### 📫 Contact
 
