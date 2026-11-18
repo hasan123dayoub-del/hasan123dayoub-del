@@ -14,15 +14,15 @@ Every project below is deployed with demo accounts, and the APIs have interactiv
 
 | Project | What it shows | Try it |
 |---|---|---|
-| [**Movies Platform**](https://github.com/hasan123dayoub-del/movies-platform) | Full-stack TypeScript: a 52-endpoint Express + Prisma API on PostgreSQL, a Next.js 16 site with reviews, HLS video, where-to-watch per country and TV-remote navigation, 92 API tests, Docker on Render | [Live](https://movies-platform-web.onrender.com) · [API docs](https://movies-platform-api.onrender.com/docs) |
-| [**HireHub**](https://github.com/hasan123dayoub-del/HireHub) | Freelance marketplace API (Laravel 12). Repository and Service layers, events, Sanctum; eager loading cut the listing from 48 to 5 queries per page | [Live](https://hirehub-api-dy61.onrender.com) · [API docs](https://hirehub-api-dy61.onrender.com/docs/api) |
-| [**LazyRoom**](https://github.com/hasan123dayoub-del/LazyRoom) | Backend of a multi-vendor ordering app. Wallet payments with row locking: 20 parallel requests on one order charge it exactly once | [Live](https://lazyroom-api.onrender.com) · [API docs](https://lazyroom-api.onrender.com/docs/api) |
-| [**NewsRoom**](https://github.com/hasan123dayoub-del/NewsRoom) | Headless CMS API with versioned endpoints (v1/v2), contextual binding and atomic locks against cache stampedes | [Live](https://newsroom-api-rmwa.onrender.com) · [API docs](https://newsroom-api-rmwa.onrender.com/docs/api) |
-| [**Institute Management System**](https://github.com/hasan123dayoub-del/Institute-Management-System) | Team project: Node.js/Express API with MongoDB transactions and a React 19 dashboard for 4 roles | [Live](https://institute-dashboard-gnsa.onrender.com) |
-| [**Alumni Network**](https://github.com/hasan123dayoub-del/Alumni-Network) | Team project: my part is the events, notifications and password modules, with Pest tests | [Live](https://alumni-network-api-08ia.onrender.com) · [API docs](https://alumni-network-api-08ia.onrender.com/docs/api) |
-| [**Property Management**](https://github.com/hasan123dayoub-del/property-management) | Team project: Laravel + Blade booking platform; my part is user management, booking messages, ratings and reports | [Live](https://property-management-xs68.onrender.com/login) |
+| [**Movies Platform**](https://github.com/hasan123dayoub-del/movies-platform) | Full-stack TypeScript: a 52-endpoint Express + Prisma API on PostgreSQL, a Next.js 16 site with reviews, HLS video, where-to-watch per country and TV-remote navigation, 92 API tests, deployed on Vercel | [Live](https://movies-platform-web.vercel.app) · [API docs](https://movies-platform-api.vercel.app/docs) |
+| [**HireHub**](https://github.com/hasan123dayoub-del/HireHub) | Freelance marketplace API (Laravel 12). Repository and Service layers, events, Sanctum; eager loading cut the listing from 48 to 5 queries per page | [Live](https://hirehub-hasan.vercel.app) · [API docs](https://hirehub-hasan.vercel.app/docs/api) |
+| [**LazyRoom**](https://github.com/hasan123dayoub-del/LazyRoom) | Backend of a multi-vendor ordering app. Wallet payments with row locking: 20 parallel requests on one order charge it exactly once | [Live](https://lazyroom-hasan.vercel.app) · [API docs](https://lazyroom-hasan.vercel.app/docs/api) |
+| [**NewsRoom**](https://github.com/hasan123dayoub-del/NewsRoom) | Headless CMS API with versioned endpoints (v1/v2), contextual binding and atomic locks against cache stampedes | [Live](https://newsroom-hasan.vercel.app) · [API docs](https://newsroom-hasan.vercel.app/docs/api) |
+| [**Institute Management System**](https://github.com/hasan123dayoub-del/Institute-Management-System) | Team project: Node.js/Express API with MongoDB transactions and a React 19 dashboard for 4 roles | [Live](https://ascend-institute-dashboard.vercel.app) |
+| [**Alumni Network**](https://github.com/hasan123dayoub-del/Alumni-Network) | Team project: my part is the events, notifications and password modules, with Pest tests | [Live](https://alumni-network-hasan.vercel.app) · [API docs](https://alumni-network-hasan.vercel.app/docs/api) |
+| [**Property Management**](https://github.com/hasan123dayoub-del/property-management) | Team project: Laravel + Blade booking platform; my part is user management, booking messages, ratings and reports | [Live](https://property-management-hasan.vercel.app/login) |
 
-<sub>Free hosting: a demo that has been idle can take about a minute to wake up.</sub>
+<sub>All demos run on Vercel with PostgreSQL (Neon) or MongoDB Atlas; demo data resets every night.</sub>
 
 ---
 
