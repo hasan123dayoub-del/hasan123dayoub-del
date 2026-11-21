@@ -14,6 +14,7 @@ Every project below is deployed with demo accounts, and the APIs have interactiv
 
 | Project | What it shows | Try it |
 |---|---|---|
+| [**Rihlati**](https://github.com/hasan123dayoub-del/bus-booking-system) | Bus booking system I led (team of 3, 83% of the final code): one Express + TypeScript API on MongoDB behind a React Native (Expo) customer app and a Next.js dashboard. 50 parallel requests for one seat book it exactly once, tested in CI | [Customer app](https://rihlati-hasan.vercel.app) · [Dashboard](https://rihlati-dashboard-hasan.vercel.app) |
 | [**Movies Platform**](https://github.com/hasan123dayoub-del/movies-platform) | Full-stack TypeScript: a 52-endpoint Express + Prisma API on PostgreSQL, a Next.js 16 site with reviews, HLS video, where-to-watch per country and TV-remote navigation, 92 API tests, deployed on Vercel | [Live](https://movies-platform-web.vercel.app) · [API docs](https://movies-platform-api.vercel.app/docs) |
 | [**HireHub**](https://github.com/hasan123dayoub-del/HireHub) | Freelance marketplace API (Laravel 12). Repository and Service layers, events, Sanctum; eager loading cut the listing from 48 to 5 queries per page | [Live](https://hirehub-hasan.vercel.app) · [API docs](https://hirehub-hasan.vercel.app/docs/api) |
 | [**LazyRoom**](https://github.com/hasan123dayoub-del/LazyRoom) | Backend of a multi-vendor ordering app. Wallet payments with row locking: 20 parallel requests on one order charge it exactly once | [Live](https://lazyroom-hasan.vercel.app) · [API docs](https://lazyroom-hasan.vercel.app/docs/api) |
@@ -28,7 +29,7 @@ Every project below is deployed with demo accounts, and the APIs have interactiv
 
 #### 🛠 Tech I work with
 
-**Backend:** PHP 8, Laravel, Node.js, TypeScript, Express · **Data:** MySQL, PostgreSQL, MongoDB, Redis, Prisma · **Auth:** Sanctum, JWT, RBAC, Policies · **Frontend:** React, Next.js, Tailwind CSS, Blade · **Quality & DevOps:** Pest, PHPUnit, Vitest, Docker, GitHub Actions (CI)
+**Backend:** PHP 8, Laravel, Node.js, TypeScript, Express · **Data:** MySQL, PostgreSQL, MongoDB, Redis, Prisma · **Auth:** Sanctum, JWT, RBAC, Policies · **Frontend & Mobile:** React, Next.js, React Native (Expo), Tailwind CSS, Blade · **Quality & DevOps:** Pest, PHPUnit, Vitest, Docker, GitHub Actions (CI)
 
 #### 📫 Contact
 
